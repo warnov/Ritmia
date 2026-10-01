@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PausaActiva.Checks/PausaActiva.Checks.csproj" />
+  <Project Path="PausaActiva.Core/PausaActiva.Core.csproj" />
+  <Project Path="PausaActiva/PausaActiva.csproj" />
+</Solution>

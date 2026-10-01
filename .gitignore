@@ -1,0 +1,49 @@
+# Build output
+**/bin/
+**/obj/
+**/artifacts/
+**/publish/
+**/TestResults/
+coverage/
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.apk
+*.aab
+*.ipa
+*.dSYM/
+
+# Visual Studio, Rider and editor state
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+secrets.json
+appsettings.Local.json
+*.pfx
+*.p12
+*.keystore
+*.jks
+
+# Local exercise library and its backups
+ejercicios.yaml
+ejercicios.yaml.*
+**/ejercicios.yaml
+**/ejercicios.yaml.*
+*.yaml.bak
+
+# OS files and package-manager logs
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+npm-debug.log*
